@@ -35,3 +35,5 @@ There are many others out there, but that’s a great place to start!
 - [https://content-security-policy.com/](https://content-security-policy.com/)
 - Generally useful tools, including XSS tools: [https://github.com/hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)
 - Awesome list of helpful resources: [https://github.com/s0md3v/AwesomeXSS](https://github.com/s0md3v/AwesomeXSS)
+
+Hope these help! Find any other useful ones? Do a PR or reach out on our [Discord server](https://cybr.com/discord).
