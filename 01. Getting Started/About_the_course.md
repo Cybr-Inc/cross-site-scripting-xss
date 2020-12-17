@@ -1,4 +1,4 @@
-Hi, I’m Christophe Limpalair, and I will be your instructor for this course. I want to take the time to thank you for enrolling and to share more details about how the course is structured, and what you will learn.
+Hi, I’m Christophe Limpalair, and I will be your instructor [for this course](https://cybr.com/courses/cross-site-scripting-xss-the-2021-guide). I want to take the time to thank you for enrolling and to share more details about how the course is structured, and what you will learn.
 
 Cross-Site Scripting is one of the most serious web application security risks that we face today, and have been facing for years. But unless you understand how it works, it’s impossible to properly defend your applications.
 
