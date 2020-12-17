@@ -1,3 +1,4 @@
+_[Click here for a more in-depth blog post version of this](https://cybr.com/app-data-security-archives/what-is-cross-site-scripting-xss/)_
 # XSS Concepts
 Let’s say that you have a static website that’s made of only HTML and CSS. When you visit the website, the browser renders that HTML and CSS and that’s what you see on your screen…but nowadays, most websites also include dynamic elements…
 
