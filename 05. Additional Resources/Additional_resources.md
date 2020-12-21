@@ -1,10 +1,10 @@
-To wrap up the course, I wanted to leave you with a number of different helpful resources. Some of these resources are one that we’ve already looked at in the course — so they should look familiar — while others are resources we haven’t looked at and that I’d recommend you read through after completing the course.
+To wrap up the course, I wanted to leave you with a number of different helpful resources. Some of these resources are ones that we’ve already looked at in the course — so they should look familiar — while others are resources we haven’t looked at and that I’d recommend you read through or explore after completing the course.
 
 These are resources like:
-- Evasion cheat sheets
-- Payload cheat sheets
-- Defensive cheat sheets
+- Evasion, payload, defensive cheat sheets
+- XSS challenges
 - Tools
+- Discord servers
 - Etc..
 
 I’m even going to include online XSS game challenges that test your ability to successfully execute payloads in vulnerable environments. 
@@ -38,7 +38,7 @@ There are many others out there, but that’s a great place to start!
 
 # Bug Bounty resources
 Inspired to try bug bounty hunting after taking the course? Here are some resources to help you with that:
-- [Bug Bounty Hunting Discord](https://discord.com/invite/2Cfu6xykvz) - friendly, helpful, and welcome discord server
+- [Bounty Hunters Discord](https://discord.com/invite/2Cfu6xykvz) - friendly, helpful, and welcome discord server
 - [HackerOne101](https://www.hackerone.com/for-hackers/hacker-101) - tutorials from HackerOne
 
 Hope these help! Find any other useful ones? Do a PR or reach out on our [Discord server](https://cybr.com/discord).
