@@ -36,4 +36,9 @@ There are many others out there, but that’s a great place to start!
 - Generally useful tools, including XSS tools: [https://github.com/hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)
 - Awesome list of helpful resources: [https://github.com/s0md3v/AwesomeXSS](https://github.com/s0md3v/AwesomeXSS)
 
+# Bug Bounty resources
+Inspired to try bug bounty hunting after taking the course? Here are some resources to help you with that:
+- [Bug Bounty Hunting Discord](https://discord.com/invite/2Cfu6xykvz) - friendly, helpful, and welcome discord server
+- [HackerOne101](https://www.hackerone.com/for-hackers/hacker-101) - tutorials from HackerOne
+
 Hope these help! Find any other useful ones? Do a PR or reach out on our [Discord server](https://cybr.com/discord).
