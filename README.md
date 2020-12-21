@@ -1,4 +1,4 @@
-# Cross-Site Scripting (XSS): The 2021 Guide Course
+# Cross-Site Scripting (XSS): The 2021 Guide Course - some free lessons, notes, and resources
 This includes free lessons from our [XSS course](https://cybr.com/courses/cross-site-scripting-xss-the-2021-guide), as well as additional resources that can help you learn and practice XSS.
 - [About the course](https://github.com/Cybr-Inc/cross-site-scripting-xss/blob/main/01.%20Getting%20Started/About_the_course.md)
 - [What is XSS](https://github.com/Cybr-Inc/cross-site-scripting-xss/blob/main/02.%20What%20is%20XSS%3F/XSS_Concepts.md)
